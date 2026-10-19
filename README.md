@@ -12,7 +12,7 @@
 <sup>4</sup> Central South University  
 <sup>*</sup> Corresponding author
 
-> **Code coming soon in 3 months.** We plan to release the code by **January 2027**. This repository currently provides the method overview and experimental results.
+> **Code coming soon in 3 months.** This repository currently provides the method overview and experimental results.
 
 ## Overview
 
@@ -62,7 +62,7 @@ Pick and Place Twice transfers the apple to the other plate and then returns it.
 
 ## Code Release
 
-**Coming soon in 3 months — planned release by January 2027.**
+**Coming soon in 3 months.**
 
 The release will include the implementation and instructions for training and evaluation. Updates will be posted in this repository.
 
@@ -72,7 +72,7 @@ If you find this work useful, please cite:
 
 ```bibtex
 @inproceedings{hong2026condensevla,
-  title={CondenseVLA: Learnable History Condensation for Efficient Multi-Frame VLA},
+  title={{CondenseVLA}: Learnable History Condensation for Efficient Multi-Frame {VLA}},
   author={Hong, Feiyang and Wei, Yujie and Zhao, Bo and Su, Xiu and Yao, Hongxun and Yang, Shuo},
   booktitle={Advances in Neural Information Processing Systems},
   year={2026}
