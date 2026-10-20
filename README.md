@@ -1,16 +1,12 @@
-# CondenseVLA
+<h1 align="center">CondenseVLA</h1>
 
-### Learnable History Condensation for Efficient Multi-Frame VLA
+<p align="center"><strong>Learnable History Condensation for Efficient Multi-Frame VLA</strong></p>
 
-**NeurIPS 2026**
+<p align="center"><strong>NeurIPS 2026</strong></p>
 
-[Feiyang Hong](https://openreview.net/profile?id=~Feiyang_Hong1)<sup>1</sup>, [Yujie Wei](https://openreview.net/profile?id=~Yujie_Wei7)<sup>2</sup>, [Bo Zhao](https://openreview.net/profile?id=~Bo_Zhao4)<sup>3</sup>, [Xiu Su](https://openreview.net/profile?id=~Xiu_Su1)<sup>4</sup>, [Hongxun Yao](https://openreview.net/profile?id=~Hongxun_Yao1)<sup>2</sup>, [Shuo Yang](https://openreview.net/profile?id=~Shuo_Yang5)<sup>1,*</sup>
-
-<sup>1</sup> Harbin Institute of Technology, Shenzhen  
-<sup>2</sup> Harbin Institute of Technology  
-<sup>3</sup> Shanghai Jiao Tong University  
-<sup>4</sup> Central South University  
-<sup>*</sup> Corresponding author
+<p align="center">
+  <a href="https://arxiv.org/abs/2610.25927"><img src="https://img.shields.io/badge/arXiv-2610.25927-red?style=flat&amp;logo=arxiv" alt="Paper on arXiv"></a>
+</p>
 
 > **Code coming soon in 3 months.** This repository currently provides the method overview and experimental results.
 
@@ -71,11 +67,11 @@ The release will include the implementation and instructions for training and ev
 If you find this work useful, please cite:
 
 ```bibtex
-@inproceedings{hong2026condensevla,
-  title={{CondenseVLA}: Learnable History Condensation for Efficient Multi-Frame {VLA}},
-  author={Hong, Feiyang and Wei, Yujie and Zhao, Bo and Su, Xiu and Yao, Hongxun and Yang, Shuo},
-  booktitle={Advances in Neural Information Processing Systems},
-  year={2026}
+@article{hong2026condensevla,
+  title   = {{CondenseVLA}: Learnable History Condensation for Efficient Multi-Frame {VLA}},
+  author  = {Feiyang Hong and Yujie Wei and Bo Zhao and Xiu Su and Hongxun Yao and Shuo Yang},
+  year    = {2026},
+  journal = {arXiv preprint arXiv: 2610.25927}
 }
 ```
 
